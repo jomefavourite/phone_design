@@ -1,2 +1,2 @@
 # phone_design
-(./phoneDesign.png)
+![Design preview](phoneDesign.png)
